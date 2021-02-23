@@ -8,7 +8,7 @@ required:
 custom_properties:
  monthly_contribution:
  type: number
- description: This is what the customer needs to contribute on a monthly basis
- riq:
+ description: Dollar amount that the person needs to contribute on a monthly basis
+ riq: 
  type: number
- description: This is your calculated RIQ
+ description: Person's calculated RIQ dollar amount test
