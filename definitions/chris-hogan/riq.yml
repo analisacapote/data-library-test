@@ -1,0 +1,14 @@
+type: object
+title: Submitted RIQ
+description: Event that contains the results from the RIQ assesment
+required:
+ - monthly_contribution
+ - riq
+ - email_lists
+custom_properties:
+ monthly_contribution:
+ type: number
+ description: This is what the customer needs to contribute on a monthly basis
+ riq:
+ type: number
+ description: This is your calculated RIQ
