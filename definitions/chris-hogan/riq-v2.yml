@@ -1,0 +1,14 @@
+type: object
+title: Submitted RIQ
+description: Event in RIQ for testing GitHub
+required:
+ - monthly_contribution
+ - riq
+ - email_lists
+custom_properties:
+ monthly_contribution:
+ type: number
+ description: Dollar amount on a monthly basis
+ riq: 
+ type: number
+ description: Person's calculated RIQ dollar amount
