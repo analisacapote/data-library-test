@@ -11,4 +11,4 @@ custom_properties:
  description: Dollar amount that the person needs to contribute on a monthly basis
  riq: 
  type: number
- description: Person's calculated RIQ dollar amount on Friday
+ description: Person's calculated RIQ dollar amount on Friday while eating ice cream sundae
